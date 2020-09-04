@@ -2,7 +2,7 @@ FROM node:alpine
 
 RUN apk add --no-cache bash yarn
 
-RUN npm install -g pm2@latest
+RUN npm install pm2 -g
 
 WORKDIR /app
 
