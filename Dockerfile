@@ -2,7 +2,7 @@ FROM node:alpine
 
 RUN apk add --no-cache bash yarn
 
-CMD npm install -g strongloop
+CMD npm install -g pm2@latest
 
 WORKDIR /app
 

@@ -1,1 +1,1 @@
-Alpine + Bash + [Strong PM](http://strong-pm.io/getting-started/)
+Alpine + Bash + [PM2](https://pm2.keymetrics.io/docs/usage/pm2-doc-single-page/)
